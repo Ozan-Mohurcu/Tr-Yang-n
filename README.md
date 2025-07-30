@@ -43,8 +43,8 @@ Yangin-Tr-tweet/
 
 ```bash
 # Repository'yi klonla
-git clone https://github.com/username/Yangin-Tr-tweet.git
-cd Yangin-Tr-tweet
+git clone https://github.com/username/yangin-tweet-analizi-nlp.git
+cd yangin-tweet-analizi-nlp
 
 # Node.js dependencies
 npm install
